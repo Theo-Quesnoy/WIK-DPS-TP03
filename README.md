@@ -4,5 +4,5 @@ En continuation avec le précédent TP "Docker", voici maintenant comment lancer
 
 - Cloner le git et aller dans dedans
 - Assurer vous que le logiciel "Docker desktop" soit lancé
-- Exécuter la commande `docker-compose --build`
-- Aller sur localhost dans la barre url pour vérifier si le site fonctionne bien
+- Exécuter la commande `docker-compose up --build`
+- Aller sur `localhost:8081/ping` dans la barre url pour vérifier si le site fonctionne bien
